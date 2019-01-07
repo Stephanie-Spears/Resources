@@ -1,6 +1,0 @@
-{
-    "package-name": "djangocms-googlemap",
-    "installed-apps": [
-        "djangocms_googlemap"
-    ]
-}
